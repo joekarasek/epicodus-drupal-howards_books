@@ -80,6 +80,10 @@ _The following user names and passwords can be used to access the site's databse
 * Name: Hughy Long
 * Password: admin
 
+#### Authenticated User
+* Name: Joe Schmo
+* Password: admin
+
 ---
 ## Misc.
 
