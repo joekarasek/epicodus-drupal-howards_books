@@ -14,3 +14,4 @@ features[variable][] = site_frontpage
 features[variable][] = site_name
 features[variable][] = site_slogan
 features[variable][] = theme_default
+features[variable][] = theme_thecompany_responsive_theme_settings
