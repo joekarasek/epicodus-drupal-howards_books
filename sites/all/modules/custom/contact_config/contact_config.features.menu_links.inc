@@ -27,7 +27,7 @@ function contact_config_menu_default_menu_links() {
     'external' => 0,
     'has_children' => 0,
     'expanded' => 0,
-    'weight' => 3,
+    'weight' => -46,
     'customized' => 1,
   );
   // Exported menu link: navigation_contact:contact.
