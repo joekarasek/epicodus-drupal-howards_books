@@ -79,6 +79,7 @@ _The following user names and passwords can be used to access the site's databse
 #### Book Reviewer
 * Name: Hughy Long
 * Password: admin
+
 ---
 ## Misc.
 
