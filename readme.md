@@ -4,7 +4,6 @@
 ---
 ## Description
 
-
 _This website is a mock website for a fictional book store called Howard's Books. This site was put together to meet the criteria for the week one code review for the level 3 drupal class at Epicodus, a vocation school for aspiring programmers in Portland, OR._
 
 _This site was built using [Drupal 7.43](https://www.drupal.org/drupal-7.43-release-notes)._
@@ -63,16 +62,34 @@ _You will need the following things properly installed on your computer._
 To deploy to GitHub Pages, run:
 
     bash scripts/deploy-to-github-pages.sh -->
+---
+## User Roles
 
-## Known Bugs
+_The following user names and passwords can be used to access the site's databse, administration, and book reviewer roles..._
+
+
+#### Database administration
+* Name: admin
+* Password: admin
+
+#### Site administration
+* Name: admin
+* Password: admin
+
+#### Book Reviewer
+* Name: Hughy Long
+* Password: admin
+---
+## Misc.
+
+### Known Bugs
 
 _No known bugs at this time._
 
-## Support and contact detagils
+### Support and contact details
 
 _If you have any questions, concerns, or feedback, please contact the authors through_ [gitHub](https://github.com/joekarasek/).
 
-## Technologies Used
 
 <!-- * _This app was created with the [Ember](http://emberjs.com/) framework._
 * _This project was built on [Node.js](https://nodejs.org/en/)._
