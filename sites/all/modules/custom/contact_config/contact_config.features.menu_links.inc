@@ -40,7 +40,7 @@ function contact_config_menu_default_menu_links() {
       'identifier' => 'navigation_contact:contact',
     ),
     'module' => 'system',
-    'hidden' => 0,
+    'hidden' => 1,
     'external' => 0,
     'has_children' => 0,
     'expanded' => 0,
