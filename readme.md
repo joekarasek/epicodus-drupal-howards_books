@@ -27,41 +27,25 @@ ___
 
 ### Prerequisites
 
-_You will need the following things properly installed on your computer._
+_This installation assumes you will use the MAMP stack to deploy this site. You will need the following things properly installed on your computer._
 
-<!-- * [Git](http://git-scm.com/)
-* [Node.js](http://nodejs.org/) (with NPM)
-* [Bower](http://bower.io/)
-* [Ember CLI](http://ember-cli.com/)
-* [PhantomJS](http://phantomjs.org/) -->
+* [Git](http://git-scm.com/)
+* [MAMP](https://www.mamp.info/en/)
 
-<!-- ## Installation
 
-* `git clone <https://github.com/joekarasek/epicodus-ember-QandA>` this repository
-* change into the new directory
-* `npm install`
-* `bower install`
+### Setting up the database
 
-## Running / Development
+1. Launch MAMP.
+2. Change `MAMP>Preferences>Web Server>Document Root` to point at the root directory of this directory.
+3. Open the 'Webstart Page' through MAMP _or_ go to 'http://localhost:8888/MAMP/?language=English'
+4. Open myPhpAdmin
+5. Import the project's database from the `./sites/db-backup/`
+6. Make sure you have a database user with user/password matching the info below (if its not included, you probably shouldn't have access to the database ;p )
 
-* `ember server`
-* Visit your app at [http://localhost:4200](http://localhost:4200).
+### Viewing the site
 
-### Running Tests
+_With MAMP running and the database setup, you should be able to view the site at `localhost:8888`._
 
-* `ember test`
-* `ember test --server`
-
-### Building
-
-* `ember build` (development)
-* `ember build --environment production` (production)
-
-### Deploy
-
-To deploy to GitHub Pages, run:
-
-    bash scripts/deploy-to-github-pages.sh -->
 ---
 ## User Roles
 
